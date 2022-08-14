@@ -24,7 +24,7 @@ Portfolio recommendation system based on the risk appetite of an individual and 
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
 | ![Imgur](screenshots/0.jpg) | ![Imgur](screenshots/1.jpg) | ![Imgur](screenshots/2.jpg) |
 | ![Imgur](screenshots/3.jpg) | ![Imgur](screenshots/4.jpg) | ![Imgur](screenshots/5.jpg) |
-| ![Imgur](screenshots/6.jpg) | ![Imgur](screenshots/8.png)  
+| ![Imgur](screenshots/6.jpg) | ![Imgur](screenshots/8.jpg)  
 
 
 ## ⚡ Dependencies Used
