@@ -4,7 +4,11 @@ An Android application 📱 built using Java ♨️ and showing best practices o
 * Portfolio recommendation system based on the risk appetite of an individual and help individuals with the personal finance. Further, the user will be provided with *  custom recommendations and rebalancing options. The user will be able to get a personalized portfolio according to their risk appetite and grow wealth safely. The app * will also display the real-time stock market data.
 ------------
 ## Diagrams - Use Case, Activity and Class Diagram
-![usecase diagram](screenshots/ActivityDiagram.png)
+![usecase diagram](screenshots/UseCaseDiagram.png)
+
+![activity diagram](screenshots/ActivityDiagram.png)
+
+![class diagram](screenshots/ClassDiagram.png)
 
 ## ⚙️ Features
 * App consists of a Profile and Risk Appetite Test
