@@ -1,5 +1,4 @@
 ## iStonks - Android Application for New Investors
-An Android application 📱 built using Java ♨️ and showing best practices of 🛠️ Room
 -------------------
 * Portfolio recommendation system based on the risk appetite of an individual and help individuals with the personal finance. Further, the user will be provided with *  custom recommendations and rebalancing options. The user will be able to get a personalized portfolio according to their risk appetite and grow wealth safely. The app * will also display the real-time stock market data.
 ------------
