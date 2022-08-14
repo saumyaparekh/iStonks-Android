@@ -22,10 +22,10 @@ Portfolio recommendation system based on the risk appetite of an individual and 
 
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![Imgur](screenshots/0.jpg) | ![Imgur](screenshots/1.png) | ![Imgur](screenshots/2.png) |
-| ![Imgur](screenshots/3.png) | ![Imgur](screenshots/4.png) | ![Imgur](screenshots/5.png) |
-| ![Imgur](screenshots/6.png) | ![Imgur](screenshots/7.png) | ![Imgur](screenshots/8.png) |
-| ![Imgur](screenshots/9.png) | ![Imgur](screenshots/9.png) | ![Imgur](screenshots/10.png) |
+| ![Imgur](screenshots/0.jpg) | ![Imgur](screenshots/1.jpg) | ![Imgur](screenshots/2.jpg) |
+| ![Imgur](screenshots/3.jpg) | ![Imgur](screenshots/4.jpg) | ![Imgur](screenshots/5.jpg) |
+| ![Imgur](screenshots/6.jpg) | ![Imgur](screenshots/8.png) | 
+
 
 ## ⚡ Dependencies Used
 ```sh
